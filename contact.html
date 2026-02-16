@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Me | Omkar Patule</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ================= NAVBAR ================= -->
+
+
+<header>
+    <div class="logo">Omkar</div>
+
+    <nav id="nav-menu">
+        <a href="index.html">Home</a>
+        <a href="index.html#about">About</a>
+        <a href="index.html#skills">Skills</a>
+        <a href="index.html#projects">Projects</a>
+        <a href="contact.html" class="btn">Contact</a>
+    </nav>
+
+    <!-- Hamburger Icon -->
+    <div class="menu-toggle" id="menu-toggle">
+        ☰
+    </div>
+</header>
+
+<!-- ================= CONTACT PAGE ================= -->
+
+<section class="contact-section">
+    <h2>Contact <span>Me!</span></h2>
+
+    <div class="contact-form">
+        <form action="https://api.web3forms.com/submit" method="POST">
+
+            <input type="hidden" name="access_key" value="ca7f1cc9-6a48-415f-acb9-dde840360409">
+
+            <div class="form-row">
+                <input type="text" name="Full Name" required placeholder="Full Name">
+                <input type="email" name="Email Address" required placeholder="Email Address">
+            </div>
+
+            <div class="form-row">
+                <input type="text" name="Mobile Number" required placeholder="Mobile Number">
+                <input type="text" name="Email Subject" required placeholder="Email Subject">
+            </div>
+
+            <textarea name="Message" required placeholder="Your Message"></textarea>
+
+            <input type="hidden" name="_template" value="table">
+
+            <button type="submit" class="btn">Send Message</button>
+        </form>
+    </div>
+</section>
+
+</body>
+</html>
