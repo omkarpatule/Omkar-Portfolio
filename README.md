@@ -177,7 +177,7 @@ https://linkedin.com/in/omkar-patule-107034262
 
 Instagram
 
-https://instagram.com/paidthumbnail.in
+https://instagram.com/Omkar_Patule
 
 GitHub
 
