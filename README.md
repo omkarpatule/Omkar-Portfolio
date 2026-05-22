@@ -183,15 +183,6 @@ GitHub
 
 https://github.com/omkarpatule
 
-📖 Internship Information
-
-This project was developed during the:
-
-Web Development Internship
-
-at TechnoHacks EduTech
-
-The internship focused on:
 
 Frontend Development
 Responsive Design
