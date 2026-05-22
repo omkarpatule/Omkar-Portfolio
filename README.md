@@ -1,14 +1,17 @@
 🌐 Omkar Patule – Personal Portfolio Website
 
+
 A modern and fully responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase projects, frontend skills, education, and professional journey.
 
 The website is designed with a clean UI, responsive layout, smooth animations, and interactive sections to create a professional web experience across all devices.
+
 
 🚀 Live Website
 
 🔗 https://omkarpatule.github.io/Omkar-Portfolio/
 
 📌 Project Objective
+
 
 The main objective of this project is to create a professional online portfolio that highlights:
 
@@ -20,10 +23,13 @@ Contact information
 
 The project also focuses on improving frontend development skills through practical implementation of responsive design and interactive UI components.
 
+
+
 ✨ Features
 ✅ Fully Responsive Design
 
 The website automatically adjusts its layout for:
+
 
 Desktop
 Tablet
@@ -32,12 +38,14 @@ Mobile devices
 
 Includes:
 
+
 Introduction text
 Professional profile image
 CTA button (View Projects)
 ✅ About Section
 
 Contains:
+
 
 Personal introduction
 Resume download button
@@ -47,6 +55,7 @@ Interactive buttons
 
 Displays featured projects using modern cards:
 
+
 Project thumbnail
 Description
 Technology stack
@@ -54,6 +63,7 @@ Action buttons
 ✅ Education Timeline
 
 Animated educational journey section showcasing:
+
 
 10th Education
 12th Science
@@ -70,6 +80,7 @@ Form validation
 
 Smooth animation effects while scrolling through sections.
 
+
 🛠️ Technologies Used
 Technology	Purpose
 HTML5	Structure
@@ -77,6 +88,7 @@ CSS3	Styling & Responsive Design
 JavaScript	Interactivity
 GitHub	Version Control
 GitHub Pages	Deployment
+
 📂 Folder Structure
 Portfolio/
 │
@@ -86,6 +98,9 @@ Portfolio/
 ├── style.css
 ├── script.js
 │
+
+
+
 ├── profile image/
 │   ├── 122.png
 │   ├── portfolio.jpg.png
@@ -95,6 +110,7 @@ Portfolio/
 💼 Featured Projects
 🔹 MassFitness Website
 
+
 A modern fitness landing page designed with:
 
 Dark UI
@@ -102,6 +118,7 @@ Responsive sections
 Call-to-action buttons
 Smooth layout structure
 🔹 Personal Portfolio Website
+
 
 Responsive portfolio website showcasing:
 
@@ -112,6 +129,7 @@ Animations
 Professional branding
 🔹 Society Management System
 
+
 A web-based management solution designed for:
 
 Society administration
@@ -119,6 +137,7 @@ Complaint handling
 Resident management
 Maintenance tracking
 📱 Responsive Design
+
 
 Special attention was given to mobile responsiveness:
 
@@ -134,6 +153,7 @@ Hover animations
 Soft shadows & spacing
 🔧 JavaScript Functionalities
 
+
 Implemented features:
 
 Scroll reveal effect
@@ -143,6 +163,7 @@ Interactive UI behavior
 🌍 Deployment
 
 The website is deployed using:
+
 
 ✅ GitHub Pages
 
